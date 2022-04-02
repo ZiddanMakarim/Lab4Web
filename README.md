@@ -488,9 +488,11 @@ float: right;
 </body>
 </html>
 ```
+---------------------------------------------------
 
 ## 2). Tambahkan layout untuk menu Contact => yang berisi form isian: nama, email, message, dll
 ### Jawaban
+![jawaban_no.2](img/no2.png)
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -560,3 +562,5 @@ button:hover{
     background-color: #1f5faa;
 }
 ```
+
+# TERIMA KASIH
