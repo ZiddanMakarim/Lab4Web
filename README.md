@@ -563,4 +563,4 @@ button:hover{
 }
 ```
 
-# TERIMA KASIH
+# TERIMA KASIH.
